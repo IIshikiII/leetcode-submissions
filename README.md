@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/IIshikiII/leetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/IIshikiII/leetcode-submissions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/IIshikiII/leetcode-submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/IIshikiII/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/IIshikiII/leetcode-submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/IIshikiII/leetcode-submissions/tree/main/0278-first-bad-version/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/IIshikiII/leetcode-submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
