@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/IIshikiII/leetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/IIshikiII/leetcode-submissions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/IIshikiII/leetcode-submissions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/IIshikiII/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/IIshikiII/leetcode-submissions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/IIshikiII/leetcode-submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/IIshikiII/leetcode-submissions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 <!---LeetCode Topics End-->
