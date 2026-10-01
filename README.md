@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/IIshikiII/leetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/IIshikiII/leetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/IIshikiII/leetcode-submissions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/IIshikiII/leetcode-submissions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/IIshikiII/leetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/IIshikiII/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/IIshikiII/leetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
