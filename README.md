@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/IIshikiII/leetcode-submissions/tree/main/0018-4sum/) | Medium |
+| [0035-search-insert-position](https://github.com/IIshikiII/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0682-baseball-game](https://github.com/IIshikiII/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/IIshikiII/leetcode-submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/IIshikiII/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/IIshikiII/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/IIshikiII/leetcode-submissions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/IIshikiII/leetcode-submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
