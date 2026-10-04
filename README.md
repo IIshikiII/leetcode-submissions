@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/IIshikiII/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/IIshikiII/leetcode-submissions/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/IIshikiII/leetcode-submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/IIshikiII/leetcode-submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -92,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IIshikiII/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/IIshikiII/leetcode-submissions/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
