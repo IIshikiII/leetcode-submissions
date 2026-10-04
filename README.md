@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/IIshikiII/leetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/IIshikiII/leetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/IIshikiII/leetcode-submissions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/IIshikiII/leetcode-submissions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0018-4sum](https://github.com/IIshikiII/leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0035-search-insert-position](https://github.com/IIshikiII/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0682-baseball-game](https://github.com/IIshikiII/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/IIshikiII/leetcode-submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/IIshikiII/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -74,4 +76,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/IIshikiII/leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/IIshikiII/leetcode-submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/IIshikiII/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
