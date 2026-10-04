@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/IIshikiII/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/IIshikiII/leetcode-submissions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/IIshikiII/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/IIshikiII/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/IIshikiII/leetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/IIshikiII/leetcode-submissions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/IIshikiII/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/IIshikiII/leetcode-submissions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1598-crawler-log-folder](https://github.com/IIshikiII/leetcode-submissions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0018-4sum](https://github.com/IIshikiII/leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/IIshikiII/leetcode-submissions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/IIshikiII/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
