@@ -15,8 +15,6 @@ class Solution:
         for i in range(0, len(s) - window_size):
             start_counter[s[i]] -= 1
             start_counter[s[i+window_size]] = start_counter[s[i+window_size]] + 1
-            # if start_counter[s[i]] == 0:
-            #     del start_counter[s[i]]
             
             if p == start_counter:
                 indices.append(i+1)
