@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/IIshikiII/leetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/IIshikiII/leetcode-submissions/tree/main/0383-ransom-note/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/IIshikiII/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/IIshikiII/leetcode-submissions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/IIshikiII/leetcode-submissions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 ## String
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/IIshikiII/leetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/IIshikiII/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/IIshikiII/leetcode-submissions/tree/main/0383-ransom-note/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/IIshikiII/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/IIshikiII/leetcode-submissions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/IIshikiII/leetcode-submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -80,4 +82,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/IIshikiII/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
