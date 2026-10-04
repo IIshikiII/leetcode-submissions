@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/IIshikiII/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/IIshikiII/leetcode-submissions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/IIshikiII/leetcode-submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1598-crawler-log-folder](https://github.com/IIshikiII/leetcode-submissions/tree/main/1598-crawler-log-folder/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,11 +45,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/IIshikiII/leetcode-submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/IIshikiII/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/IIshikiII/leetcode-submissions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1598-crawler-log-folder](https://github.com/IIshikiII/leetcode-submissions/tree/main/1598-crawler-log-folder/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/IIshikiII/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/IIshikiII/leetcode-submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1598-crawler-log-folder](https://github.com/IIshikiII/leetcode-submissions/tree/main/1598-crawler-log-folder/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
